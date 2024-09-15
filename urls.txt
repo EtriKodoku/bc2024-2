@@ -1,1 +1,2 @@
 http://backend.course/EtriKodoku
+http://backend.course/?name="Петрів Володимир"&github_name=EtriKodoku&group="ФЕІ-25с"&subgroup="Підгрупа 2"
